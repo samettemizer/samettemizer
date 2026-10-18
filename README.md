@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/technical-practice-cloud-alternative.svg#static">
-  <img src="assets/technical-practice-cloud-alternative.svg" alt="Rotating technical skill cloud covering backend architecture, data integration, AI retrieval, infrastructure, quality and observability.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/technical-details.svg#static">
+  <img src="assets/technical-details.svg" alt="Rotating technical skill cloud covering backend architecture, data integration, AI retrieval, infrastructure, quality and observability.">
 </picture>
 
 <sub></sub>
