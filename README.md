@@ -3,7 +3,7 @@
   <img src="assets/technical-practice-cloud-alternative.svg" alt="Rotating technical skill cloud covering backend architecture, data integration, AI retrieval, infrastructure, quality and observability.">
 </picture>
 
-<sub>End-to-end engineering, connecting architecture directly to production ops. The illustration respects reduced-motion preferences.</sub>
+<sub></sub>
 
 <details>
 <summary><strong>Explore the complete technical skill set</strong></summary>
@@ -99,7 +99,7 @@ Nesti's python graph implementation and accompanying tests were selected by [XER
 <p><a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> · <a href="https://github.com/samettemizer/vue_tinyfinder">Vue</a> · <a href="https://github.com/samettemizer/filament_tinyfinder">Filament</a></p>
 </td>
 <td valign="top">
-<h3><a href="https://github.com/samettemizer/fuat">FuatAmca</a></h3>
+<h3><a href="https://github.com/samettemizer/fuat">Fuat</a></h3>
 <p><strong>Apartment / Residential Complex Management.</strong><br>FuatAmca provides a REST API for apartment building managers.</p>
 <sub>.NET 9 · EF COE · POSTGRESQL</sub>
 </td>
