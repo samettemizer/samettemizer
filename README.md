@@ -13,10 +13,10 @@ With over 15 years of experience, I develop high-performance systems, scalable i
 </p>
 
 <p>
-  <a href="https://github.com/samettemizer/nesti"><img src="https://img.shields.io/badge/creator%20of-NESTI-DE5833?style=flat-square&logo=python&logoColor=white" alt="Creator of NESTI" /></a>
-  <a href="https://tinyfinder.stemizer.net"><img src="https://img.shields.io/badge/creator%20of-TinyFinder-DE5833?style=flat-square&logo=fastapi&logoColor=white" alt="Creator of TinyFinder" /></a>
+  <a href="https://github.com/samettemizer/nesti"><img src="https://img.shields.io/badge/creator%20of-Nesti-DE5833?style=flat-square&logo=python&logoColor=white" alt="Creator of Nesti" /></a>
+  <a href="https://tinyfinder.stemizer.net"><img src="https://img.shields.io/badge/creator%20of-Tinyfinder-DE5833?style=flat-square&logo=fastapi&logoColor=white" alt="Creator of Tinyfinder" /></a>
   <a href="https://github.com/hestiacp/hestiacp"><img src="https://img.shields.io/badge/developer%20of-Hestia-007CBB?style=flat-square&logo=github&logoColor=white" alt="Developer of Hestia" /></a>
-  <a href="https://github.com/litecart/litecart"><img src="https://img.shields.io/badge/developer%20of-LiteCart-FBD504?style=flat-square&logo=github&logoColor=white" alt="Developer of LiteCart" /></a>
+  <a href="https://github.com/litecart/litecart"><img src="https://img.shields.io/badge/developer%20of-Litecart-FBD504?style=flat-square&logo=github&logoColor=white" alt="Developer of Litecart" /></a>
 </p>
 
 <p>
