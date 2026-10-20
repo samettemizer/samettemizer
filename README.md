@@ -90,7 +90,7 @@ Focused reuse for agent tooling. A CLI tool that installs skills from Git reposi
 </td>
 <td width="33%" valign="top">
 
-### [django-domain-repositories](https://github.com/samettemizer/django-domain-repositories)
+### [domain-repositories](https://github.com/samettemizer/django-domain-repositories)
 A library that automates the repository layer in DDD-focused Django projects. Binds contracts via naming conventions.
 
 `Python` `Django` `DDD`
@@ -98,8 +98,8 @@ A library that automates the repository layer in DDD-focused Django projects. Bi
 </td>
 <td width="33%" valign="top">
 
-### [TinyFinder](https://tinyfinder.stemizer.net)
-Compact file management for rich-text editors. Features a FastAPI based <a href="https://tinyfinder-vue.stemizer.net">Vue.js</a> or jQuery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based Alpine.js options.
+### [tinyfinder](https://tinyfinder.stemizer.net)
+Compact file management for rich-text editors. Features a <a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> based <a href="https://github.com/samettemizer/vue_tinyfinder">Vue.js</a> or jQuery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based Alpine.js options.
 
 `FastAPI` `Filament`
 
@@ -116,9 +116,9 @@ Compact file management for rich-text editors. Features a FastAPI based <a href=
 
 ```text
 Languages & Runtimes         Python · PHP · .NET · Bash · Rust (Beginner)
-Backend & API                FastAPI · ~Typer · Django · Laravel ecosystem · ASP.NET, EF Core · REST
+Backend & REST API           FastAPI, ~Typer, Django · Laravel ecosystem · ASP.NET, EF Core
 Data & Messaging             PostgreSQL · MariaDB/MySQL · Redis · RabbitMQ · Elasticsearch
-Architecture                 Domain-Driven Design (DDD) · Autonomous Agents · RAG
+Architecture                 Domain-Driven Design · Autonomous Agents · RAG
 Infrastructure & Delivery    Docker · Kubernetes · GitLab CI · Argo CD · Ansible
 Observability                OpenTelemetry · Prometheus · Grafana
 ```
@@ -128,17 +128,10 @@ Observability                OpenTelemetry · Prometheus · Grafana
 ## Links / contact
 
 <p>
-  <a href="https://linkedin.com/in/stemizer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@stemizer">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoSize=auto" />
-  </a>
-  <a href="mailto:info@stemizer.net">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/nestiworks">
-    <img alt="Telegram" src="https://img.shields.io/badge/TG-3390EC?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+    <a href="https://linkedin.com/in/stemizer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://medium.com/@stemizer"><img alt="Medium" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge" /></a>
+    <a href="mailto:info@stemizer.net"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge" /></a>
+    <a href="https://wa.me/samet100"><img alt="WhatsApp" src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://t.me/nestiworks"><img alt="Telegram" src="https://img.shields.io/badge/-3390EC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
