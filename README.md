@@ -7,9 +7,9 @@
 With over 15 years of experience, I develop high-performance systems, scalable infrastructure, and AI-powered tools.
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Retrieval-1E293B?style=flat-square" alt="Focus AI" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Architecture-1E293B?style=flat-square" alt="Focus Backend" />
-  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Ops-1E293B?style=flat-square" alt="Focus Ops" />
+  <img src="https://img.shields.io/badge/Focus-&middot; AI%20%26%20Retrieval-1E293B?style=flat-square" alt="Focus AI" />
+  <img src="https://img.shields.io/badge/&middot; Backend%20%26%20Architecture-1E293B?style=flat-square" alt="Focus Backend" />
+  <img src="https://img.shields.io/badge/&middot; Infrastructure%20%26%20Ops-1E293B?style=flat-square" alt="Focus Ops" />
 </p>
 
 <p>
@@ -120,7 +120,7 @@ Backend & REST API           FastAPI, ~Typer, Django · Laravel ecosystem · ASP
 Data & Messaging             PostgreSQL · MariaDB/MySQL · Redis · RabbitMQ · Elasticsearch
 Architecture                 Domain-Driven Design · Autonomous Agents · RAG
 Infrastructure & Delivery    Docker · Kubernetes · GitLab CI · Argo CD · Ansible
-Observability                OpenTelemetry · Prometheus · Grafana
+Observability                OpenTelemetry · Prometheus
 ```
 
 ---
@@ -129,7 +129,7 @@ Observability                OpenTelemetry · Prometheus · Grafana
 
 <p>
     <a href="https://linkedin.com/in/stemizer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://medium.com/@stemizer"><img alt="Medium" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge" /></a>
+    <a href="https://medium.com/@stemizer"><img alt="Medium" src="https://img.shields.io/badge/Medium-444444?style=for-the-badge" /></a>
     <a href="mailto:info@stemizer.net"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge" /></a>
     <a href="https://wa.me/samet100"><img alt="WhatsApp" src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://t.me/nestiworks"><img alt="Telegram" src="https://img.shields.io/badge/-3390EC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
