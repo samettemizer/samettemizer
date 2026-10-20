@@ -1,119 +1,144 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/technical-details.svg#static">
-  <img src="assets/technical-details.svg" alt="Rotating technical skill cloud covering backend architecture, data integration, AI retrieval, infrastructure, quality and observability.">
-</picture>
+<div align="center">
 
-<sub></sub>
+# Samet Temizer
 
-<details>
-<summary><strong>Explore the complete technical skill set</strong></summary>
+**Solutions Architect · Open-source Enthusiast · Agentic AI Engineer**
 
-| Area | Tools and approaches |
-| :--- | :--- |
-| **AI & retrieval** | LangGraph · Hierarchical RAG, vector search, reranking · Test-driven feedback loops |
-| **Backend & architecture** | Python, PHP · FastAPI, Django, Laravel · REST APIs, domain-driven design |
-| **Data & integration** | PostgreSQL, MariaDB, Elasticsearch · Redis, RabbitMQ, Celery · Keycloak, OAuth2/OIDC |
-| **Infrastructure & delivery** | Docker, Linux, Nginx · GitLab CI, Argo CD, Ansible · AWS, Kubernetes |
-| **Quality & observability** | PHPUnit, Vitest, Playwright · Static analysis · OpenTelemetry, Prometheus, Grafana |
-
-</details>
-
-
-# Architecture with production in mind.
-
-### 15+ YoE in software design, delivery and operations.
-
-Building core backends, integrations, and infrastructure for **public- and private-sector leaders**. Spanning B2B/B2C platforms, payment systems, public services, and modern AI-assisted delivery.
-
-I have worked as a developer, team lead and solutions architect. Bridging the gap between: **designing how systems work and owning how they run.**
+With over 15 years of experience, I develop high-performance systems, scalable infrastructure, and AI-powered tools.
 
 <p>
-  <a href="https://www.linkedin.com/in/stemizer"><strong>Experience on LinkedIn</strong></a> &nbsp; / &nbsp;
-  <a href="mailto:info@stemizer.net"><strong>Get in touch</strong></a> &nbsp; / &nbsp;
-  <a href="https://medium.com/@stemizer">Writing</a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Retrieval-1E293B?style=flat-square" alt="Focus AI" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Architecture-1E293B?style=flat-square" alt="Focus Backend" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Ops-1E293B?style=flat-square" alt="Focus Ops" />
 </p>
 
+<p>
+  <a href="https://github.com/samettemizer/nesti"><img src="https://img.shields.io/badge/creator%20of-NESTI-DE5833?style=flat-square&logo=python&logoColor=white" alt="Creator of NESTI" /></a>
+  <a href="https://tinyfinder.stemizer.net"><img src="https://img.shields.io/badge/creator%20of-TinyFinder-DE5833?style=flat-square&logo=fastapi&logoColor=white" alt="Creator of TinyFinder" /></a>
+  <a href="https://github.com/hestiacp/hestiacp"><img src="https://img.shields.io/badge/developer%20of-Hestia-007CBB?style=flat-square&logo=github&logoColor=white" alt="Developer of Hestia" /></a>
+  <a href="https://github.com/litecart/litecart"><img src="https://img.shields.io/badge/developer%20of-LiteCart-FBD504?style=flat-square&logo=github&logoColor=white" alt="Developer of LiteCart" /></a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/stemizer">LinkedIn</a> ·
+  <a href="https://github.com/samettemizer">GitHub</a> ·
+  <a href="https://medium.com/@stemizer">Medium</a>
+</p>
+
+</div>
+
 ---
 
-## Experience that informs the architecture
+## Currently building
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>Business systems &amp; integrations</h3>
-<p>Unified payment integrations into a dedicated domain, eliminating redundant B2B workflows. Extended CRM services with messaging integrations and introduced OAuth2/OIDC single sign-on.</p>
-<p><strong>Payments · Identity · CRM/ERP integration</strong></p>
-</td>
-<td width="50%" valign="top">
-<h3>Public services &amp; reliability</h3>
-<p>Operated resilient citizen-service platforms integrated with multi-channel communication tools. Tuned database and cache configuration to improve availability; delivered on-premises services for exam-result publication.</p>
-<p><strong>API operations · Queues · Databases · On-premises</strong></p>
-</td>
-</tr>
-<tr>
 <td valign="top">
-<h3>From data to working products</h3>
-<p>Built an electronic auction platform, e-commerce business-intelligence integrations and ETL pipelines. Earlier work includes official document management and home-healthcare service applications.</p>
-<p><strong>B2B / B2C · ETL · Web services · Product delivery</strong></p>
-</td>
-<td valign="top">
-<h3>Architecture &amp; delivery ownership</h3>
-<p>Led engineering teams, defined system blueprints, and mitigated technical risks. Built staging environments and CI/CD workflows, bringing automated quality checks into day-to-day delivery.</p>
-<p><strong>System design · Team leadership · CI/CD · Operations</strong></p>
-</td>
-</tr>
-</table>
-
-## Open source, with a purpose
 
 ### [Nesti](https://github.com/samettemizer/nesti) — autonomous developer
-**AI-assisted development, with test gates before human review.**
 
-Flagship project: a Python/LangGraph pipeline turning GitLab issues into verified merge requests for Laravel & Vue. It brings planning, code generation, retrieval and execution into a development loop.
+Nesti is a Python/LangGraph pipeline that analyzes GitLab issues and produces tested Merge Requests. It combines planning, code generation, retrieval, and execution in a cycle.
 
-> **The core boundary is verification;** automated test suites running inside ephemeral Docker sandboxes. Failed checks feed a bounded retry loop; passing changes become a merge request for human review, not an automatic production deployment.
+- **Secure Validation:** Code changes pass through automated tests in isolated Docker environments before being submitted for human review.
+- **Intelligent Retrieval:** Employs hierarchical retrieval, vector search, and reranking techniques to provide agents with the accurate context.
+- **Reference Implementation:** Nesti's architecture was selected as a working reference for coding agents in the [XERJ](https://xerj.org/) Corpus Hub.
 
-Hierarchical retrieval, vector search and reranking are part of my current engineering focus: supplying useful context to agents while keeping their output accountable to executable checks.
+<p>
+  <a href="https://github.com/samettemizer/nesti"><b>GitHub Repository</b></a> ·
+  <a href="https://github.com/samettemizer/nesti#architecture">Architecture Details</a>
+</p>
 
-[Explore Nesti's architecture and source →](https://github.com/samettemizer/nesti)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangGraph-Black?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <a href="https://github.com/samettemizer/nesti/stargazers"><img src="https://img.shields.io/github/stars/samettemizer/nesti?style=flat-square&logo=github&label=Stars" alt="GitHub stars" /></a>
+</p>
 
-Nesti's python graph implementation and accompanying tests were selected by [XERJ](https://xerj.org/) team for inclusion in its public Corpus Hub as a worked reference for coding agents.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/samettemizer/skillpluck">skillpluck</a></h3>
-<p><strong>Focused reuse for agent tooling.</strong><br>Install selected skills from Git repositories with their resolved static local references and licences. Rewrites references without executing source scripts.</p>
-<sub>PYTHON · CLI · DEVELOPER TOOL</sub>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/samettemizer/django-domain-repositories">django-domain-repositories</a></h3>
-<p><strong>Less manual wiring in domain-driven Django.</strong><br>Discover repository implementations and bind them to contracts using a consistent naming convention.</p>
-<sub>PYTHON · DJANGO · DOMAIN-DRIVEN DESIGN</sub>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<h3><a href="https://tinyfinder.stemizer.net" target="_blank">TinyFinder</a></h3>
-<p><strong>File management where content is edited.</strong><br>A compact upload and search tool for rich-text editors, with a FastAPI-backed version and separate Vue and Filament integrations.</p>
-<p><a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> · <a href="https://github.com/samettemizer/vue_tinyfinder">Vue</a> · <a href="https://github.com/samettemizer/filament_tinyfinder">Filament</a></p>
-</td>
-<td valign="top">
-<h3><a href="https://github.com/samettemizer/fuat">Fuat</a></h3>
-<p><strong>Apartment / Residential Complex Management.</strong><br>FuatAmca provides a REST API for apartment building managers.</p>
-<sub>.NET 9 · EF COE · POSTGRESQL</sub>
 </td>
 </tr>
 </table>
 
-**Package registries:** [Packagist.org](https://packagist.org/packages/stemizer/) &nbsp; / &nbsp; [PyPI.org](https://pypi.org/user/stemizer/) &nbsp; / &nbsp; [All repositories](https://github.com/samettemizer?tab=repositories)
+---
 
+## About
 
+I build full-stack systems, integrations, and infrastructure across both public and private sectors. From B2B/B2C platforms to payment systems, public services to modern AI orchestrations, I focus on designing systems and owning them in production.
+
+**Skills & interests:**
+
+| Area | Focus |
+|------|-------|
+| **AI & LLM** | LangGraph, RAG, Vector Databases, Autonomous Agents |
+| **Data & Integration** | PostgreSQL, Elasticsearch · Redis, RabbitMQ · OAuth2/OIDC, Keycloak |
+| **Infrastructure & Ops** | Docker, K8s · GitLab CI, Argo CD, Ansible · Observability |
+| **Language** | Not picky |
 
 ---
 
-### Let's discuss the system you need to build — or make dependable.
+## Other repos
 
-Based in **Istanbul & Ankara, Türkiye**. Open to engineering roles and open-source collaboration involving backend systems, architecture, infrastructure and AI orchestration.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**[info@stemizer.net](mailto:info@stemizer.net)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/stemizer) &nbsp; · &nbsp; [GitHub](https://github.com/samettemizer) &nbsp; · &nbsp; [Medium](https://medium.com/@stemizer)
+### [skillpluck](https://github.com/samettemizer/skillpluck)
+Focused reuse for agent tooling. A CLI tool that installs skills from Git repositories while preserving dependencies and licenses.
+
+`Python` `CLI` `pip package`
+
+</td>
+<td width="33%" valign="top">
+
+### [django-domain-repositories](https://github.com/samettemizer/django-domain-repositories)
+A library that automates the repository layer in DDD-focused Django projects. Binds contracts via naming conventions.
+
+`Python` `Django` `DDD`
+
+</td>
+<td width="33%" valign="top">
+
+### [TinyFinder](https://tinyfinder.stemizer.net)
+Compact file management for rich-text editors. Features a FastAPI based <a href="https://tinyfinder-vue.stemizer.net">Vue.js</a> or jQuery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based Alpine.js options.
+
+`FastAPI` `Filament`
+
+</td>
+</tr>
+</table>
+
+**&middot;** See: [all github repositories](https://github.com/samettemizer?tab=repositories)<br>
+**&middot;** Also: [packagist items](https://packagist.org/packages/stemizer/)
+
+---
+
+## Technical expertise
+
+```text
+Languages & Runtimes         Python · PHP · .NET · Bash · Rust (Beginner)
+Backend & API                FastAPI · ~Typer · Django · Laravel ecosystem · ASP.NET, EF Core · REST
+Data & Messaging             PostgreSQL · MariaDB/MySQL · Redis · RabbitMQ · Elasticsearch
+Architecture                 Domain-Driven Design (DDD) · Autonomous Agents · RAG
+Infrastructure & Delivery    Docker · Kubernetes · GitLab CI · Argo CD · Ansible
+Observability                OpenTelemetry · Prometheus · Grafana
+```
+
+---
+
+## Links / contact
+
+<p>
+  <a href="https://linkedin.com/in/stemizer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@stemizer">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoSize=auto" />
+  </a>
+  <a href="mailto:info@stemizer.net">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/nestiworks">
+    <img alt="Telegram" src="https://img.shields.io/badge/TG-3390EC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
