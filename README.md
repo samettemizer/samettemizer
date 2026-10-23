@@ -90,25 +90,25 @@ Focused reuse for agent tooling. A CLI tool that installs skills from Git reposi
 </td>
 <td width="33%" valign="top">
 
-### [domain-repositories](https://github.com/samettemizer/django-domain-repositories)
-A library that automates the repository layer in DDD-focused Django projects. Binds contracts via naming conventions.
+### [domain-repositories](https://github.com/samettemizer/laravel-domain-repositories)
+A package that automates the repository layer in DDD-focused Laravel projects. Binds contracts via naming conventions.
 
-`Python` `Django` `DDD`
+`Laravel` `Php` `Domain-driven design`
 
 </td>
 <td width="33%" valign="top">
 
 ### [tinyfinder](https://tinyfinder.stemizer.net)
-Compact file management for rich-text editors. Features a <a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> based <a href="https://github.com/samettemizer/vue_tinyfinder">Vue.js</a> or jQuery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based Alpine.js options.
+Compact file management for rich-text editors. Features a <a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> based <a href="https://github.com/samettemizer/vue_tinyfinder">Vue.js</a> or jquery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based Alpine.js options.
 
-`FastAPI` `Filament`
+`FastAPI` `Filament` `Vue.js`
 
 </td>
 </tr>
 </table>
 
-**&middot;** See: [all github repositories](https://github.com/samettemizer?tab=repositories)<br>
-**&middot;** Also: [packagist items](https://packagist.org/packages/stemizer/)
+**&middot;** See all [Github repositories](https://github.com/samettemizer?tab=repositories)<br>
+**&middot;** Package indexes › Packagist:[☍](https://packagist.org/packages/stemizer), PyPI:[☍](https://pypi.org/user/stemizer)
 
 ---
 
