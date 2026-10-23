@@ -99,7 +99,7 @@ A package that automates the repository layer in DDD-focused Laravel projects. B
 <td width="33%" valign="top">
 
 ### [tinyfinder](https://tinyfinder.stemizer.net)
-Compact file management for rich-text editors. Features a <a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> based <a href="https://github.com/samettemizer/vue_tinyfinder">Vue.js</a> or jquery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based Alpine.js options.
+Compact file management for rich-text editors. Features a <a href="https://github.com/samettemizer/tinyfinder">FastAPI</a> based <a href="https://github.com/samettemizer/vue_tinyfinder">Vue.js</a> or jquery,<br><a href="https://filamentphp.com/plugins/samet-temizer-tinyfinder">Filament</a> based alpine.js options.
 
 `FastAPI` `Filament` `Vue.js`
 
@@ -108,7 +108,7 @@ Compact file management for rich-text editors. Features a <a href="https://githu
 </table>
 
 **&middot;** See all [Github repositories](https://github.com/samettemizer?tab=repositories)<br>
-**&middot;** Package indexes › Packagist:[☍](https://packagist.org/packages/stemizer), PyPI:[☍](https://pypi.org/user/stemizer)
+**&middot;** Package indexes › Packagist: [☍](https://packagist.org/packages/stemizer), PyPI: [☍](https://pypi.org/user/stemizer)
 
 ---
 
