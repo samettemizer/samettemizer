@@ -36,12 +36,13 @@ High-performance systems, scalable infrastructure, and AI-powered tools
 <tr>
 <td valign="top">
 
-### [Nesti](https://github.com/samettemizer/nesti) — autonomous developer
+### [Nesti](https://github.com/samettemizer/nesti) — advisor or coder
 
-Nesti is a Python/LangGraph pipeline that analyzes GitLab issues and produces tested Merge Requests. It combines planning, code generation, retrieval, and execution in a cycle.
+**From GitLab issue to tested merge request.** Run the Laravel + PrimeVue pipeline, or equip your existing coding agent with Nesti's tools, documentation and memory through **MCP**.
 
-- **Secure Validation:** Code changes pass through automated tests in isolated Docker environments before being submitted for human review.
-- **Intelligent Retrieval:** Employs hierarchical retrieval, vector search, and reranking techniques to provide agents with the accurate context.
+- **Test-gated delivery:** the pipeline plans, codes and opens an MR only after the required PHPUnit, OpenAPI, Vitest and Playwright checks pass in disposable Docker sandboxes.
+- **Reusable context:** framework documentation, past solutions and issue history inform the next attempt.
+- **Subscriptions first:** logged-in subscriptions before paid APIs, with live usage and API-equivalent cost tracking.
 - **Reference Implementation:** Nesti's architecture was selected as a working reference for coding agents in the [XERJ](https://xerj.org/) Corpus Hub.
 
 <p>
@@ -132,7 +133,7 @@ Observability                OpenTelemetry · Prometheus
     <a href="https://linkedin.com/in/stemizer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://medium.com/@stemizer"><img alt="Medium" src="https://img.shields.io/badge/Medium-444444?style=for-the-badge" /></a>
     <a href="mailto:info@stemizer.net"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge" /></a>
-    <a href="https://wa.me/samet100"><img alt="WhatsApp" src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://wa.me/anonym.usr"><img alt="WhatsApp" src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://t.me/nestiworks"><img alt="Telegram" src="https://img.shields.io/badge/-3390EC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
